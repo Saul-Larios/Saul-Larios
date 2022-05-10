@@ -19,8 +19,8 @@
 const Saul = {
   pronouns: "he" | "him",
   age: 27,
-  code: [Javascript, HTML, CSS, Python, C Sharp ],
-  tools: [ Node , Vue ],
+  code: [Javascript, HTML, CSS, Python, C Sharp, C , C++ ],
+  tools: [ Node , Vue , mySQL, postgreSQL],
   
 }
 ```
