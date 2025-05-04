@@ -4,7 +4,7 @@
 
 - 🔭 I am an explorer of **Launch X**
 
-- 📫 How to reach me **saul.r.ingenier@gmail.com**
+- 📫 How to reach me **sau30jas@mail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
